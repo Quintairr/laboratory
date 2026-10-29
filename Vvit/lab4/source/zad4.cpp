@@ -1,4 +1,3 @@
-// Лабораторная работа № 4 (Вариант № 5)
 // Проект 4: Функция без параметров и без возвращаемого значения (использование глобальных переменных)
 #include <iostream>
 #include <cmath>
@@ -15,17 +14,17 @@ double x, y, b;
 int main()
 {
     setlocale(LC_ALL, "rus");
-    
+
     cout << "Ввод x = ";
     cin >> x;
     cout << endl << "Ввод y = ";
     cin >> y;
-    
+
     func4(); // Вызов функции func4
-    
+
     cout << endl << "При x = " << x << " и y = " << y << endl;
     cout << "результат b = " << b << endl;
-    
+
     system("PAUSE");
     return 0;
 }
