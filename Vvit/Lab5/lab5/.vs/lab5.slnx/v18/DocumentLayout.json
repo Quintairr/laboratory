@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laboratory\\Vvit\\Lab5\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0319D6AE-80FA-4EAD-9E67-6B5EC160C571}|lab5.vcxproj|C:\\laboratory\\Vvit\\Lab5\\lab5\\Calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0319D6AE-80FA-4EAD-9E67-6B5EC160C571}|lab5.vcxproj|solutionrelative:Calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0319D6AE-80FA-4EAD-9E67-6B5EC160C571}|lab5.vcxproj|C:\\laboratory\\Vvit\\Lab5\\lab5\\GetPut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0319D6AE-80FA-4EAD-9E67-6B5EC160C571}|lab5.vcxproj|solutionrelative:GetPut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0319D6AE-80FA-4EAD-9E67-6B5EC160C571}|lab5.vcxproj|C:\\laboratory\\Vvit\\Lab5\\lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0319D6AE-80FA-4EAD-9E67-6B5EC160C571}|lab5.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calc.cpp",
+              "DocumentMoniker": "C:\\laboratory\\Vvit\\Lab5\\lab5\\Calc.cpp",
+              "RelativeDocumentMoniker": "Calc.cpp",
+              "ToolTip": "C:\\laboratory\\Vvit\\Lab5\\lab5\\Calc.cpp",
+              "RelativeToolTip": "Calc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-05T18:11:33.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetPut.cpp",
+              "DocumentMoniker": "C:\\laboratory\\Vvit\\Lab5\\lab5\\GetPut.cpp",
+              "RelativeDocumentMoniker": "GetPut.cpp",
+              "ToolTip": "C:\\laboratory\\Vvit\\Lab5\\lab5\\GetPut.cpp",
+              "RelativeToolTip": "GetPut.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-05T18:11:23.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\laboratory\\Vvit\\Lab5\\lab5\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\laboratory\\Vvit\\Lab5\\lab5\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-05T18:10:35.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab5\\x64\\Debug\\GetPut.obj",
+            "outputs": [
+                "lab5\\x64\\Debug\\GetPut.cpp.obj.dt.module.json",
+                "lab5\\x64\\Debug\\GetPut.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
