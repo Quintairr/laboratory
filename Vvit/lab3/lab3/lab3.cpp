@@ -2,9 +2,17 @@
 #include <cmath>
 #include <locale.h>
 
+#ifdef _WIN32
+#include <windows.h>
+#endif
+
 using namespace std;
 
 int main() {
+#ifdef _WIN32
+	SetConsoleOutputCP(CP_UTF8);
+	SetConsoleCP(CP_UTF8);
+#endif
 	setlocale(LC_ALL, "rus");
 	double x, y, b;
 	int k, l, m, n;
@@ -26,6 +34,12 @@ int main() {
 	cout << "Значение постфиксного инкремента l++ = " << l++ << endl;
 	cout << "Значение k после приращения = " << k << endl;
 	cout << "Значение l после приращения = " << l << endl;
+#ifdef _WIN32
+	system("PAUSE");
+#else
+	std::cout << "Нажмите Enter для продолжения..." << std::endl;
+	std::cin.get();
+#endif
 
 	return 0;
 }
